@@ -8,4 +8,3 @@ public class ClassA {
         return "To jest klasa ClassA";
     }
 }
-//
