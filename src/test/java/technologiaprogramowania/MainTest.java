@@ -18,4 +18,3 @@ public class MainTest {
         assertEquals("To jest klasa ClassB", messageB);
     }
 }
-//
