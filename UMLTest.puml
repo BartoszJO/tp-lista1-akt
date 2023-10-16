@@ -1,0 +1,27 @@
+@startuml
+package technologiaprogramowania {
+    class Main {
+        +main(args: String[]): void
+    }
+
+    class MainTest {
+        +testClassAMessage(): void
+        +testClassBMessage(): void
+    }
+
+    class ClassA {
+        +printMessage(): void
+        +getMessage(): String
+    }
+
+    class ClassB {
+        +printMessage(): void
+        +getMessage(): String
+    }
+
+    Main --> ClassA
+    Main --> ClassB
+    MainTest --> ClassA
+    MainTest --> ClassB
+}
+@enduml
