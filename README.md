@@ -1,2 +1,2 @@
 # tp-lista1-akt
-Lista 1
+Lista 0 #sabotaż
