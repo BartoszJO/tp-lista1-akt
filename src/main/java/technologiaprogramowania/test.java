@@ -1,2 +1,4 @@
-package technologiaprogramowania;public class test {
+package technologiaprogramowania;
+
+public class test {
 }
