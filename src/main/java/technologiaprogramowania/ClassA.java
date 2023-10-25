@@ -7,4 +7,4 @@ public class ClassA {
     public String getMessage() {
         return "To jest klasa ClassA";
     }
-}
+}// aaaa
